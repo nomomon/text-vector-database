@@ -1,0 +1,13 @@
+sentence_transformers
+torch
+
+numpy
+pandas
+matplotlib
+seaborn
+
+streamlit
+
+textract
+
+weaviate-client==v4.4b2
